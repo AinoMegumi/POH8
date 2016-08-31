@@ -5,7 +5,7 @@ C++の回答は[saitomarchさん](https://github.com/saitomarch/POH8)が作成�
 
 HTMLで見たい方は[こちら](http://aimegu.webcrow.jp/java/paiza/poh8/)
 
-## 作成者
+## 作成・編集者
 あいめぐ
 
 
